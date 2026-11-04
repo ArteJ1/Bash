@@ -3,8 +3,6 @@
 set -e
 
 timeout=$1
-TOKEN=9080469006:AAEnfFghHsPS0sjSPXGSS9_t_SWEXHRwMqg
-CHAT_ID=691817935
 
 while true; 
 do
